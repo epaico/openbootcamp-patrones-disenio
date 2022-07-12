@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b35fd5b0-569f-4aa5-b2a9-cbdab8b74539" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b35fd5b0-569f-4aa5-b2a9-cbdab8b74539" name="Changes" comment="Add Patron Iterator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,8 +130,30 @@
       <workItem from="1655852844933" duration="1837000" />
       <workItem from="1655990462711" duration="899000" />
       <workItem from="1657549426247" duration="616000" />
-      <workItem from="1657631402935" duration="1567000" />
+      <workItem from="1657631402935" duration="1925000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Patron Iterator">
+      <created>1657635384713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657635384713</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Patron Iterator">
+      <created>1657635535097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657635535097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Patron Iterator">
+      <created>1657635551395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657635551395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,5 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Patron Iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Patron Iterator" />
   </component>
 </project>
