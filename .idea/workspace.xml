@@ -44,7 +44,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.comportamiento.iterator.Main">
+  <component name="RunManager" selected="Application.comportamiento.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creacionales.singleton.Main" />
       <module name="openbootcamp-patrones-disenio" />
@@ -58,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="comportamiento.iterator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="comportamiento.iterator.Main" />
+    <configuration name="comportamiento.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comportamiento.Main" />
       <module name="openbootcamp-patrones-disenio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="comportamiento.iterator.*" />
+          <option name="PATTERN" value="comportamiento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,7 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.comportamiento.iterator.Main" />
+        <item itemvalue="Application.comportamiento.Main" />
         <item itemvalue="Application.creacionales.prototype.Main" />
         <item itemvalue="Application.creacionales.builder.Main" />
         <item itemvalue="Application.creacionales.factory.Main" />
